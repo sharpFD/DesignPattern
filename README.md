@@ -1,4 +1,4 @@
-# DesignModel
+# DesignPattern
  23 common examples of design patterns, including a variety of optimization methods
 
 # It contains
